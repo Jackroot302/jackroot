@@ -10,13 +10,13 @@ $ _`pip install futures bs4`_
 
 $ _`rm -rf FreeCrack`_
 
-$ _`git clone https://github.com/AngCyber/FreeCrack`_
+$ _`git clone https://github.com/Jackroot302/jack`_
 
-$ _`cd FreeCrack`_
+$ _`cd Jack`_
 
 $ _`ls`_
 
-$ _`python free.py`_
+$ _`python Jack.py`_
 
 #### Menu & Fitur Crack
 ![IMG_20211231_044515_e](https://user-images.githubusercontent.com/92802033/150424935-7ab12d9f-be56-47e6-84bf-58e808a9529f.png)
